@@ -1,2 +1,0 @@
-jhonatan,Jhonathan,Jhonathan,$2a$10$vo9RrETlbcZtphrx4t9btuer8t62qhsZSqcNbZYTbFNYMaWCPFj9e,Jhonathan@example.com,2000-01-01,HOMBRE,SUPERADMIN
-Freddy1704,Freddy,Pachacama,$2a$10$1HaVC8nY6O9OXg/UXl7FKOssGTIvG8rIT3rnY15FlHyaZgLzY5qgK,flpachacama@espe.edu.ec,2000-01-10,HOMBRE,ADMIN
